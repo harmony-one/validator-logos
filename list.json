@@ -76,5 +76,11 @@
         "name": "Chickens Public Validator",
         "description": "Public validator run by Chickens, old Harmony intern. Currently one of only 7 validators with 100% uptime on my private validator! Using 5% fee and not gonna change it!",
         "website": "https://github.com/xChickens"
+    },
+    {
+        "id": "one1427qn37jngpu78lrdaw5e0q923jjcjkcra3t84",
+        "name": "HashParty",
+        "description": "24/7/365 8+CPU Linux Server w/failover and low fees. Hosted on AWS. https://discord.gg/S7eh4aY",
+        "website": "https://one.hashparty.io"
     }
 ]
