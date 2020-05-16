@@ -46,5 +46,11 @@
         "name": "🌐 KysenPool Dragon 🐉",
         "description": "Harmony Foundational Node operator since Day ONE. Experienced Proof-of-Stake Validator. Maximize Effective Staking returns by autoscaling Harmony’s validator slots. Validator and Buidler with Harmony, Cosmos and Terra. Based in Silicon Valley.",
         "website": "https://www.kysenpool.io/"
+    },
+    {
+        "id": "one12tthayx2u7g262afmcfca29ktnx9aajjd8uj5j",
+        "name": "insider",
+        "description": "",
+        "website": "https://github.com/trueinsider"
     }
 ]
