@@ -52,5 +52,11 @@
         "name": "iBriz-Validator",
         "description": "We are an experienced blockchain team based in San Francisco and Nepal. We will strive to get you maximum returns and have high uptime for the node.",
         "website": "https://ibriz.ai/"
+    },
+    {
+        "id": "one13jewk8w7jah3r9jfahh8rlzpr5r6valascd0mn",
+        "name": "JungleCity",
+        "description": "Harmony Foundational Node Validator",
+        "website": "https://junglecity.tech/"
     }
 ]
