@@ -58,5 +58,11 @@
         "name": "JungleCity",
         "description": "Harmony Foundational Node Validator",
         "website": "https://junglecity.tech/"
+    },
+    {
+        "id": "one15mf5amj7nc8c9zpp0e2wr48em0r2vm02k9m8h2",
+        "name": "FreshONES.net",
+        "description": "FreshONES runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics.",
+        "website": "https://FreshONES.net/"
     }
 ]
