@@ -34,12 +34,17 @@
         "name": "JSK ONE Auto Node",
         "description": "None",
         "website": "prarysoft.com/harmonystaking"
-    }
-    
+    },
     {
-    "id": "one1s34smmhr9acsnk57ammyf06m3au2pqaewxm5t4",
-    "name": "zerg",
-    "description": "Zerg Validator Node",
-    "website": "https://t.me/zergtengudev"
-},
+        "id": "one1s34smmhr9acsnk57ammyf06m3au2pqaewxm5t4",
+        "name": "zerg",
+        "description": "Zerg Validator Node",
+        "website": "https://t.me/zergtengudev"
+    },
+    {
+        "id": "one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm",
+        "name": "🌐 KysenPool Dragon 🐉",
+        "description": "Harmony Foundational Node operator since Day ONE. Experienced Proof-of-Stake Validator. Maximize Effective Staking returns by autoscaling Harmony’s validator slots. Validator and Buidler with Harmony, Cosmos and Terra. Based in Silicon Valley.",
+        "website": "https://www.kysenpool.io/"
+    }
 ]
