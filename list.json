@@ -36,6 +36,12 @@
         "website": "prarysoft.com/harmonystaking"
     },
     {
+        "id": "one1gawz79t5m2rkucndc9uag9zkn937jjevy84uvn",
+        "name": "ValidATXer",
+        "description": "Austin, TX",
+        "website": "tokentheory.io"
+    },
+    {
         "id": "one1s34smmhr9acsnk57ammyf06m3au2pqaewxm5t4",
         "name": "zerg",
         "description": "Zerg Validator Node",
@@ -102,4 +108,3 @@
         "website": "https://hyegar.com"
     }
 ]
-
