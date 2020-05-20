@@ -82,5 +82,11 @@
         "name": "HashParty",
         "description": "24/7/365 8+CPU Linux Server w/failover and low fees. Hosted on AWS. https://discord.gg/S7eh4aY",
         "website": "https://one.hashparty.io"
+    },
+    {
+        "id": "one1wc32qcufuc8lzfs804dtrjrq2zufnkczp43u75",
+        "name": "Էդգար",
+        "description": "I coded this blockchain",
+        "website": "https://hyegar.com"
     }
 ]
