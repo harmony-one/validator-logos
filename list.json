@@ -125,5 +125,11 @@
         "name": "HashQuark",
         "description": "HashQuark is a new generation Proof-of-Stake pool focused on POS, DPOS and other public chains providing secure, transparent and efficient staking services.",
         "website": "https://www.hashquark.io/"
+    },
+    {
+        "id": "one1dzqeetfpyp02evw00mag4nnhlqvu92wr9esnq3",
+        "name": "CryptoBanditz",
+        "description": "CryptoBanditz - Make your money, make money.",
+        "website": "https://cryptobanditz.com"
     }
 ]
