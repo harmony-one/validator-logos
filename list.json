@@ -95,19 +95,18 @@
         "description": "24/7/365 8+CPU Linux Server w/failover and low fees. Hosted on AWS. https://discord.gg/S7eh4aY",
         "website": "https://one.hashparty.io"
     },
-     {
+    {
         "id": "one1jy4lwncutk3gvpn9l9eszsn4vtaw4j48d08fdj",
         "name": "Gotham",
         "description": "Edi Validator",
         "website": "https://github.com/edixonve"
-   },
+    },
     {
         "id": "one1wc32qcufuc8lzfs804dtrjrq2zufnkczp43u75",
         "name": "Էդգար",
         "description": "I coded this blockchain",
         "website": "https://hyegar.com"
-    }
-    ,
+    },
     {
         "id": "one18xrw6c8a7hrrpxayflmsgwq9k5rxhfqjgsqdd5",
         "name": "Wetez",
@@ -130,6 +129,24 @@
 		"id": "one16c6wqr99gth9nwm5ka49alqk3gtqdv4f9nhtk9",
 		"name": "Alpha Virtual",
 		"description": "Alpha Virtual NO FEES UNTIL JULY!",
-		"website": "https://harmony.alphavirtual.com"
-	}
+        "website": "https://harmony.alphavirtual.com"
+    },
+    {
+        "id": "one1nxsugfasz47ftsp5kcywx0wx46eeztxw4dqv7g",
+        "name": "ApertureDataScience",
+        "description": "Aperture Science: We do what we must, because we can. For the good of all of us… and cake.",
+        "website": "https://www.thinkwithportals.com/"
+    },
+    {
+        "id": "one1krrnxlwjd6mxj7pw8rsfsr97y8x2524u20d9ej",
+        "name": "Staky",
+        "description": "Staky is a user-centric staking as a service platform with dashboards, rewards schedules and governance features",
+        "website": "https://www.staky.io"
+    },
+    {
+        "id": "one1e0fzq4shcj6t9mgp9whjd2wwjs5cum9qlq8x3d",
+        "name": "Gabrovo",
+        "description": "validator with 100mbps up/down in Bulgaria",
+        "website": "https://none-for.now"
+    }
 ]
