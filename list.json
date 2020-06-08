@@ -138,4 +138,10 @@
         "description": "Staky is a user-centric staking as a service platform with dashboards, rewards schedules and governance features",
         "website": "https://www.staky.io"
     }
+    {
+        "id": "one1e0fzq4shcj6t9mgp9whjd2wwjs5cum9qlq8x3d",
+        "name": "Gabrovo",
+        "description": "validator with 100mbps up/down in Bulgaria",
+        "website": "https://none-for.now"
+    }
 ]
