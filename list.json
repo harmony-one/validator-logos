@@ -143,11 +143,17 @@
         "name": "Staky",
         "description": "Staky is a user-centric staking as a service platform with dashboards, rewards schedules and governance features",
         "website": "https://www.staky.io"
-    }
+    },
     {
         "id": "one1e0fzq4shcj6t9mgp9whjd2wwjs5cum9qlq8x3d",
         "name": "Gabrovo",
         "description": "validator with 100mbps up/down in Bulgaria",
         "website": "https://none-for.now"
+    },
+    {
+        "id": "one1xrlz4kjut6rpq4ghvernnjgxwcrq27kwqresgc",
+        "name": "Animoca Brands",
+        "description": "Animoca Brands leverages gamification and blockchain technologies to develop and publish a broad portfolio of original IP and global brands such as Formula 1®, MotoGP, The Sandbox.",
+        "website": "https://www.animocabrands.com/"
     }
 ]
