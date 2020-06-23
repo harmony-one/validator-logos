@@ -155,5 +155,11 @@
         "name": "Animoca Brands",
         "description": "Animoca Brands leverages gamification and blockchain technologies to develop and publish a broad portfolio of original IP and global brands such as Formula 1®, MotoGP, The Sandbox.",
         "website": "https://www.animocabrands.com/"
+    },
+    {
+        "id": "one1uedma80q9typ624dd8xjfjrxz95mt25l0l5txg",
+        "name": "Swiss Staking",
+        "description": "Experienced Validator based in Switzerland",
+        "website": "https://swiss-staking.ch"
     }
 ]
