@@ -155,5 +155,12 @@
         "name": "Animoca Brands",
         "description": "Animoca Brands leverages gamification and blockchain technologies to develop and publish a broad portfolio of original IP and global brands such as Formula 1®, MotoGP, The Sandbox.",
         "website": "https://www.animocabrands.com/"
-    }
+    }, 
+    {
+        "id": "one1hrcm8pesmwutea4cxa8690x2jdzfjx87sfj39k",
+        "name": "Marshall",
+        "description": "Reliable and Trusted Validator",
+        "website": "www.harmonyvalidators.com"
+    },
+       
 ]
