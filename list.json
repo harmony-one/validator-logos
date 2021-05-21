@@ -1,0 +1,140 @@
+[
+    {
+        "id": "one1pdv9lrdwl0rg5vglh4xtyrv3wjk3wsqket7zxy",
+        "name": "Harmony",
+        "description": "Harmony Staking",
+        "website": "https://harmony.one"
+    },
+    {
+        "id": "one1j9gr0maryak7mmgkgw67gsgz3wxhmnv6cpvnqy",
+        "name": "solo duck",
+        "description": "goose",
+        "website": "harmony.one"
+    },
+    {
+        "id": "one1ryuvxq3mgcvj0a2ukpa5dkuxmlc2gdf7pcc775",
+        "name": "triple duck",
+        "description": "goose",
+        "website": "harmony.one"
+    },
+    {
+        "id": "one1pul5cd3hewakyfcewdn2m2xhuk7w0ese9u733s",
+        "name": "double duck dude",
+        "description": "goose",
+        "website": "harmony.one"
+    },
+    {
+        "id": "one170xqsfzm4xdmuyax54t5pvtp5l5yt66u50ctrp",
+        "name": "OpenStaking#P-OPS",
+        "description": "Yelllowsin_1",
+        "website": "Yelllowsin_1"
+    },
+    {
+        "id": "one1gm8xwupd9e77ja46eaxv8tk4ea7re5zknaauvq",
+        "name": "JSK ONE Auto Node",
+        "description": "None",
+        "website": "prarysoft.com/harmonystaking"
+    },
+    {
+        "id": "one1gawz79t5m2rkucndc9uag9zkn937jjevy84uvn",
+        "name": "ValidATXer",
+        "description": "Austin, TX",
+        "website": "tokentheory.io"
+    },
+    {
+        "id": "one1s34smmhr9acsnk57ammyf06m3au2pqaewxm5t4",
+        "name": "zerg",
+        "description": "Zerg Validator Node",
+        "website": "https://t.me/zergtengudev"
+    },
+    {
+        "id": "one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm",
+        "name": "🌐 KysenPool Dragon 🐉",
+        "description": "Harmony Foundational Node operator since Day ONE. Experienced Proof-of-Stake Validator. Maximize Effective Staking returns by autoscaling Harmony’s validator slots. Validator and Buidler with Harmony, Cosmos and Terra. Based in Silicon Valley.",
+        "website": "https://www.kysenpool.io/"
+    },
+    {
+        "id": "one1zdz826ruk0rfp78vg3dw98epwn33ky3cu9udmm",
+        "name": "iBriz-Validator",
+        "description": "We are an experienced blockchain team based in San Francisco and Nepal. We will strive to get you maximum returns and have high uptime for the node.",
+        "website": "https://ibriz.ai/"
+    },
+    {
+        "id": "one13jewk8w7jah3r9jfahh8rlzpr5r6valascd0mn",
+        "name": "JungleCity",
+        "description": "Harmony Foundational Node Validator",
+        "website": "https://junglecity.tech/"
+    },
+    {
+        "id": "one15mf5amj7nc8c9zpp0e2wr48em0r2vm02k9m8h2",
+        "name": "FreshONES.net",
+        "description": "FreshONES runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, hardware protected keys, with 24/7 monitoring, alerting, and analytics.",
+        "website": "https://FreshONES.net/"
+    },
+    {
+        "id": "one12tthayx2u7g262afmcfca29ktnx9aajjd8uj5j",
+        "name": "insider",
+        "description": "",
+        "website": "https://github.com/trueinsider"
+    },
+    {
+        "id": "one1fzh923dkauvyye7w68nc38j2dw54gldu5mheaz",
+        "name": "Chickens Private Validator",
+        "description": "Private validator run by Chickens, old Harmony intern. Currently using only allowing own balance to freely test. To stake with my public validator check here: https://staking.harmony.one/validators/one18ky073zdrrmme3fs7h63wyzguuj6a3uukuc3gk",
+        "website": "https://github.com/xChickens"
+    },
+    {
+        "id": "one18ky073zdrrmme3fs7h63wyzguuj6a3uukuc3gk",
+        "name": "Chickens Public Validator",
+        "description": "Public validator run by Chickens, old Harmony intern. Currently one of only 7 validators with 100% uptime on my private validator! Using 5% fee and not gonna change it!",
+        "website": "https://github.com/xChickens"
+    },
+    {
+        "id": "one1427qn37jngpu78lrdaw5e0q923jjcjkcra3t84",
+        "name": "HashParty",
+        "description": "24/7/365 8+CPU Linux Server w/failover and low fees. Hosted on AWS. https://discord.gg/S7eh4aY",
+        "website": "https://one.hashparty.io"
+    },
+     {
+        "id": "one1jy4lwncutk3gvpn9l9eszsn4vtaw4j48d08fdj",
+        "name": "Gotham",
+        "description": "Edi Validator",
+        "website": "https://github.com/edixonve"
+   },
+    {
+        "id": "one1wc32qcufuc8lzfs804dtrjrq2zufnkczp43u75",
+        "name": "Էդգար",
+        "description": "I coded this blockchain",
+        "website": "https://hyegar.com"
+    }
+    ,
+    {
+        "id": "one18xrw6c8a7hrrpxayflmsgwq9k5rxhfqjgsqdd5",
+        "name": "Wetez",
+        "description": "Wetez is the most professional team in the POS ( Proof of Stake) field.Wetez是POS领域最专业的团队，为POS带来的权益做更多赋能。",
+        "website": "http://www.wetez.io"
+    },
+    {
+        "id": "one17nfgz8rtgpl3nlws5q9tdk9y3puyqf847az6ne",
+        "name": "HashKey Capital",
+        "description": "Investing in the future.",
+        "website": "https://www.hashkey.capital/"
+    },
+    {
+        "id": "one16f3f9y4sqtrk3eq7gnagr4ac8p25rf08u0pxxp",
+        "name": "HashQuark01",
+        "description": "HashQuark is a new generation Proof-of-Stake pool focused on POS, DPOS and other public chains providing secure, transparent and efficient staking services.",
+        "website": "https://www.hashquark.io/"
+    },
+    {
+        "id": "one1wqyr9yp8uyjdfgaa73u8n5rj08eqdvd9p9wej8",
+        "name": "Tigdar 🐯 Together, we can! ",
+        "description": "Enabling Blockchains, Empowering Decentralization",
+        "website": "https://tigdar.com"
+    },
+    {
+        "id": "one12rjhtpwaclyms73lw3qjchs4httvr5nhxfc42l",
+        "name": "The Beatles",
+        "description": "The validator for the real HODLERS!And fans of the Beatles ;) 0 fees for the first 3 months",
+        "website": "https://twitter.com/HodlersV"
+     },
