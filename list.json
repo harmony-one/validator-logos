@@ -155,5 +155,11 @@
         "name": "Moonstake",
         "description": "Moonstake develops a staking pool protocol to satisfy increasing demands in regional and global blockchain markets and provides business services through partners and companies.",
         "website": "https://moonstake.io"
+    },
+    {
+        "id": "one149j0j8jx4mrjzzlnh299hmrd3rzr8ptyhksht9",
+        "name": "Kiln",
+        "description": "Enterprise-grade staking made easy",
+        "website": "https://kiln.fi"
     }
 ]
